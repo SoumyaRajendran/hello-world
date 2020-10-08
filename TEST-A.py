@@ -1,9 +1,7 @@
-import time
+from time import time
 
-t_end = time.time() + 60 * 60
-while time.time() < t_end:
-  print "Hello World"
-
-    
+end = time() + 120
+while time() < end:
+  print "Hello World"    
     
 

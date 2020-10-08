@@ -1,4 +1,4 @@
-from time import time
+import time
 
 end = time() + 120
 while time() < end:

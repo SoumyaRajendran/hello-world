@@ -2,7 +2,7 @@
 
 
   
-print "GOODBYE"    
+print "TEST-B"    
  
     
     

@@ -1,6 +1,7 @@
+from time import time,sleep
 
-  
-print "TEST-B"    
- 
-    
-    
+end = time() + 60
+while time() < end:
+  print "TEST-B"    
+  sleep(60)
+

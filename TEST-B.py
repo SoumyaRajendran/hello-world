@@ -1,3 +1,5 @@
+#The code will run for 3 minutes
+
 from time import time,sleep
 
 end = time() + 180
